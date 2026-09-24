@@ -1,0 +1,1269 @@
+Big into NYTimes games
+Connections
+Wordle
+Stuff like Scrabble
+Flowers (was in flower making class and loves flower)
+Percy Jackon's biggest fan
+Coffee all the time all the time all the time
+Renaissance fair girly
+Wants 2 cats and a dog someday
+Thrifting a lot
+Hinterland music festivals and others
+Absolutely huge Volleyball fan (Nebraska especially) and knows her shit
+Also like hockey (San Jose Sharks and Celebrini)
+Taskmaster, Survivor, Traitors, Great British Baking SHow
+
+
+
+
+Halloween weve gone as
+Vector and some not despicable me person (before datying)
+The couple from Atlantis movie the white haired girl and glasses dude
+Morticia and Gomez from Addamms family
+
+
+
+
+
+0 notifications
+
+I'm looking for…
+
+
+
+Home
+My Network
+Jobs
+Messaging
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+Trenton Sedlacek
+
+Epidemiologist | Data Scientist | Nebraska DHHS
+
+
+Resources
+
+Enhance profile
+Add section
+
+Open to
+Cover photo
+
+
+Trenton Sedlacek
+Epidemiologist | Data Scientist | Nebraska DHHS
+
+Omaha Metropolitan Area
+
+·
+
+Contact info
+
+
+Nebraska Department of Health and Human Services
+
+500+ connections
+
+
+Open to
+Add section
+
+Enhance profile
+
+Resources
+Open to work · Recruiters only
+
+Omaha Metropolitan Area +4 more | On-site · Hybrid · Remote
+
+Show details
+
+
+Suggested for you
+Private to you
+
+Analytics
+Private to you
+
+43 profile views
+
+Discover who’s viewed your profile.
+
+162 post impressions
+
+Check out who’s engaging with your posts.
+
+Past 7 days
+
+8 search appearances
+
+See how often you appear in search results.
+
+Show all
+About
+Top skills
+
+Statistics • Data Science • Epidemiology • Economics • Business Analytics
+
+Featured
+
+Media
+
+
+2026 CSTE Conference Presentation
+
+I used mixed effects logistic regression to prioritize addresses for home investigations and to identify areas for targeted screening programs for pediatric lead poisoning.
+
+Link
+
+
+Nebraska Worker Health Dashboard
+
+https://app.powerbigov.us/view?r=eyJrIjoiNmNiMzJjY2ItYzM0Yi00NjAwLWIwNWEtMjFmZWU1NzdkYjdlIiwidCI6IjA0MzIwN2RmLWU2ODktNGJmNi05MDIwLTAxMDM4ZjExZjBiMSJ9
+
+I analyzed 65,000 employed Nebraskans using SQL and SAS. This is published to Nebraska DHHS website as a PowerBI dashboard.
+
+Main page:
+https://dhhs.ne.gov/Pages/Public-Data-Dashboards.aspx
+
+Link
+
+
+US Labor Statistics Dashboard
+
+https://blsdashboard-trenton.streamlit.app/?
+
+This dashboard built in Python and Streamlit is live. It automatically updates when BLS data is released. I created it to help inform my industry sector denominators for employment and wages. 
+
+Media
+
+
+2025 CSTE Conference Presentation
+
+I used multivariate logistic regression to identify which jobs get the least amount of sleep and why.
+
+https://cste.confex.com/data/handout/cste/2025/Paper_21919_handout_977_0.pdf
+
+
+Activity
+880 followers
+
+Create a post
+
+Posts
+
+Comments
+
+Images
+View Trenton Sedlacek’s profile
+Trenton Sedlacek
+
+  • You
+
+Epidemiologist | Data Scientist | Nebraska DHHS
+
+4mo • Edited • 
+
+
+Hey everyone, I'm happy to share that I've graduated from the University of Nebraska Medical Center with my MS in Biostatistics, and I'm continuing at the Nebraska Department of Health and Human Services as a full-time epidemiologist!
+
+The last two years at NDHHS as a graduate assistant were a great opportunity for me to build the foundation for my public health and statistical modeling work. I'm excited to dig further into workforce data and report on how your job affects your health.
+
+Thank you to my professors at UNMC for training me as a statistician and to my team at NDHHS for trusting me with real problems early. I'm grateful for my classmates and MS cohort for being good friends and bringing some fun to our busy schedules. Lastly, to my family, friends, and everyone who supports me and my work: thank you!… more
+
+View image
+1/3
+
+
+248
+
+75
+
+2
+8,914 impressions
+
+View analyticsView analytics
+
+View Trenton Sedlacek’s profile
+Trenton Sedlacek
+
+  • You
+
+Epidemiologist | Data Scientist | Nebraska DHHS
+
+2yr • Edited • 
+
+
+Hey everyone, I’m eager to share with you updates:
+I’m excited to begin studying this fall at the University of Nebraska Medical Center, where I’ll be programming with clinical trial datal and earning an M.S. in Biostatistics. Thank you Dr. Wichman, Eric Brabb, and the College of Public Health for giving me this opportunity!
+
+I graduate this month from UNL where I studied economics and urban planning. I’m taking classes as a post-bacc this summer to finish earning a math minor.
+
+Thank you especially to my professors for engaging me and supporting me throughout this journey. 
+
+Thank you Teaching and Learning Center for first being a resource I used to making me a helpful resource for others. Tutoring economics and being in student organizations were my favorite experiences at UNL.
+
+Thank you to these organizations for introducing me to my best friends: Alpha Kappa Psi, Omicron Delta Epsilon, Theta Xi, and Professional Business Leaders. Also, shoutout to the UNL varsity men’s choir for letting me belt the low notes and Quizbowl for entertaining geography trivia during my one-month stint. 
+
+Thank you Mom for being my rock through my life and giving me solid career guidance (free of charge, too!) 
+
+Lastly, thank you for surviving the text wall and being a part of my life. The people that I see every day make my days worth it. You mean a lot to me.
+
+- Trenton… more
+
+View image
+1/4
+
+
+89
+
+29
+Show all
+Experience
+
+Nebraska Department of Health and Human Services logo
+Nebraska Department of Health and Human Services
+
+2 yrs 2 mos
+
+Nebraska, United States
+
+Epidemiologist
+
+May 2026 - Present · 5 mos
+
+NE Occupational Health Surveillance Program:
+Workforce health epidemiology, data management, and predictive modeling.
+
+• I built CostLens, a Python + R framework that predicts workers' comp claim costs from Nebraska claims and national medical expenditure data. It catches the costliest 10% of claims about 3.4× better than reviewing them in the order they arrive.
+
+• I built Readmit-30, a Nebraska discharge data model to flag patients most likely to return within 30 days, so care resources go where they matter. The top model decile readmits at 26% against a 12% state average.
+
+• I ran a difference-in-differences analysis of 4.8M Nebraska ED visits across 71 hospitals to see how Medicaid unwinding shifted payer mix. Self-pay rates rose significantly, especially among young adults.
+
+• I manage Nebraska's Adult Blood Lead Epidemiology and Surveillance (ABLES) program, processing over 3,000 lead tests and investigating over 200 elevated-level cases each year.
+
+ Data Science, Healthcare Analytics and +4 skills
+
+Epidemiology Graduate Assistant
+
+Aug 2024 - May 2026 · 1 yr 10 mos
+
+NE Occupational Health Surveillance Program
+
+• I built an R Shiny tool that ranks homes by XGBoost-predicted lead risk, lifting detection from 50% to 81% while cutting required tests by 38%. I presented it at the 2026 CSTE Conference in Boston.
+
+• I analyzed sleep habits among Nebraska workers and found Protective Services and Transportation occupations had the highest odds of sleeping under 7 hours a night, both unadjusted and adjusted. I presented it at the 2025 CSTE Conference in Grand Rapids.
+
+• I analyzed occupational health data in R, SAS, Python, SQL, and Power BI to track the health of Nebraska's workforce and build multi-year industry and occupation dashboards.
+
+Thumbnail for Comparing Predictive Models
+Comparing Predictive Models
+
+ Epidemiology, Python (Programming Language) and +6 skills
+
+Nebraska College of Business logo
+Economics Learning Assistant
+
+Nebraska College of Business
+
+Feb 2022 - May 2024 · 2 yrs 4 mos
+
+Lincoln, Nebraska, United States
+
+I led weekly economics review sessions in macro, micro, and statistics. I wrote the study guides and practice-exam solution keys students used to prepare.
+
+Thumbnail for ECON311A Review
+ECON311A Review
+
+(April 2023) Deric takes a pic during my review on international investment and US interest rates.
+
+ Economics, Public Speaking and +2 skills
+
+Director of Scheduling
+
+Bennington Athletic League
+
+Apr 2019 - Aug 2021 · 2 yrs 5 mos
+
+Bennington, Nebraska, United States
+
+I scheduled umpires for BAL games and tournaments, working with adult and high school officials and coordinating tournament coverage with outside officiating associations.
+
+(Role at BAL is now named DIBS Director)… more
+
+Thumbnail for Bennington Daze Tourney
+Bennington Daze Tourney
+
+(June 2019) Visiting my sister, who played college softball and had over 50 collegiate career home-runs!
+
+ Organizational Leadership, Communication and +2 skills
+
+Education
+University of Nebraska Medical Center logo
+University of Nebraska Medical Center
+
+Master of Science in Biostatistics, 
+
+2024 – 2026
+
+Delta Omega Honor Society
+
+Graduate training in probability, regression, ML, causal inference, and epidemiology
+
+ Mathematics, Statistics and +8 skills
+
+University of Nebraska-Lincoln logo
+University of Nebraska-Lincoln
+
+Bachelor of Science in Business Administration, Economics
+
+2020 – 2024
+
+Grade: Summa cum laude
+
+Minors: Mathematics, Urban Planning 
+
+Alpha Kappa Psi, FBLA Collegiate, 
+Omicron Delta Epsilon, Theta Xi
+
+ Statistics, Economics and +6 skills
+
+Show all 5 educations
+Skills (34)
+Statistical Data Analysis
+
+
+Epidemiologist at Nebraska Department of Health and Human Services
+
+3 endorsements
+
+Python (Programming Language)
+
+
+Epidemiology Graduate Assistant at Nebraska Department of Health and Human Services
+
+
+2 educational experiences at University of Nebraska Medical Center and 1 other school
+
+1 endorsement
+
+Show all
+Organizations (6)
+American Society of Health Economists (ASHEcon)
+
+American Statistical Association (ASA)
+
+Nebraska Chapter Member
+
+Show all 6 organizations
+Interests
+
+Companies
+
+Groups
+
+Schools
+
+Nebraska College of Business, CompanyNebraska College of Business
+
+11,738 followers
+
+
+Following
+
+University of Nebraska Medical Center, CompanyUniversity of Nebraska Medical Center
+
+53,946 followers
+
+
+Following
+Show all
+Profile language
+English
+
+Public profile & URL
+www.linkedin.com/in/trentonsedlacek
+
+
+Who your viewers also viewed
+Private to you
+
+
+Physician at Nebraska Department of Health and Human Services
+
+
+View
+
+Someone at University of Nebraska Medical Center
+
+
+View
+
+Laboratory Scientist at Wake Forest University School of Medicine
+
+
+View
+
+Someone at Douglas County Health Department
+
+
+View
+People you may know
+From your school
+
+Kathleen Angell, PhD, MPH is open to work
+Kathleen Angell, PhD, MPH 
+
+· 2nd
+
+Postdoctoral Researcher in Epidemiology, Department of Molecular and Cellular Biology, University of Guelph
+
+Connect
+
+Blake Johnson 
+
+· 3rd+
+
+Clinical Technician - ATS at SpecialtyCare
+
+Connect
+
+Emma Hymel 
+
+· 2nd
+
+Postdoc Fellow | Cancer Epidemiologist | Wake Forest University Division of Public Health Sciences
+
+Connect
+June C
+
+· 3rd+
+
+Student at University of Nebraska Medical Center
+
+Connect
+
+Krishtee Napit, PhD, MPH 
+
+· 2nd
+
+Research Fellow, Epidemiologist, Public Health Practitioner
+
+Connect
+Show all
+You might like
+Pages for you
+
+
+Econiful
+
+Education
+
+175 followers
+
+
+Follow
+
+Society for Epidemiologic Research
+
+Non-profit Organizations
+
+6,051 followers
+
+
+Deepanjali & 10 other connections follow this page
+
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Trenton Sedlacek
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
+
+
+
+0 notifications
+
+I'm looking for…
+
+
+
+Home
+My Network
+Jobs
+Messaging
+Notifications
+
+
+Me
+
+For Business
+Reactivate Premium: 50% Off
+
+
+
+Cover photo
+
+Kimberly Christensen
+She/Her
+
+· 1st
+
+English Language Arts Educator 
+
+Omaha, Nebraska, United States
+
+·
+
+Contact info
+
+
+Wax Buffalo 
+
+
+University of Nebraska-Lincoln
+
+97 connections
+
+
+
+Antonio J., Isha and 13 other mutual connections
+
+Message
+
+More
+Highlights
+
+You both studied at University of Nebraska-Lincoln
+
+You both studied at University of Nebraska-Lincoln from Jan 1, 2020 to Dec 1, 2024
+
+Message
+About
+Top skills
+
+Curriculum Development • Classroom Management
+
+Activity
+97 followers
+
+Kimberly has no recent posts
+
+Recent posts Kimberly shares will be displayed here.
+
+Show all
+Experience
+Wax Buffalo  logo
+Retail Specialist
+
+Wax Buffalo  · Part-time
+
+Nov 2022 - Present · 3 yrs 11 mos
+
+Lincoln, Nebraska, United States · On-site
+
+University of Nebraska-Lincoln Campus Recreation logo
+University of Nebraska-Lincoln Campus Recreation
+
+Part-time · 3 yrs 4 mos
+
+Staff Assistant
+
+May 2021 - May 2024 · 3 yrs 1 mo
+
+Lincoln, Nebraska, United States
+
+Facilitate sports club meetings and intramural events
+
+Sports Referee
+
+Feb 2021 - May 2021 · 4 mos
+
+Referee for Intramural volleyball 
+Keep scorebooks and ran the score board for basketball
+
+Altar'd State logo
+Brand Associate
+
+Altar'd State · Part-time
+
+Nov 2021 - Apr 2023 · 1 yr 6 mos
+
+Omaha, Nebraska, United States
+
+Ensure a positive experience for customers by clearly communicating and serving their needs
+
+Ross Stores, Inc. logo
+Sales Stock Associate
+
+Ross Stores, Inc. · Part-time
+
+Jun 2020 - Jul 2021 · 1 yr 2 mos
+
+Omaha, Nebraska, United States
+
+Old Navy logo
+Brand Ambassador
+
+Old Navy · Part-time
+
+Mar 2019 - Sep 2019 · 7 mos
+
+Omaha, Nebraska, United States
+
+Education
+University of Nebraska-Lincoln logo
+University of Nebraska-Lincoln
+
+Bachelor's degree, Secondary Education and Teaching
+
+2020 – 2024
+
+Activities and societies: Member of Gamma Phi Beta - Pi Chapter
+Member of Sustain UNL
+Member of Trauma Informed Educators (TIE)
+
+3.6 GPA 
+Pursuing a major in secondary education: English Langauge Arts and minors in Communication Studies and Theatre… more
+
+Concordia Jr/Sr High School
+
+High School Diploma, Regular/General High School/Secondary Diploma Program
+
+Aug 2016 – May 2020
+
+Skills (9)
+Classroom Management
+
+
+Endorse
+Curriculum Development
+
+
+Endorse
+Show all
+Interests
+
+Companies
+
+Schools
+
+Wax Buffalo, CompanyWax Buffalo
+
+177 followers
+
+
+Follow
+
+Family Physical Therapy & Sports Center, CompanyFamily Physical Therapy & Sports Center
+
+124 followers
+
+
+Follow
+Show all
+
+More profiles for you
+Carly Schindler
+
+· 3rd+
+
+Attended University of New Orleans
+
+Connect
+Lindsey Whipple is open to work
+Lindsey Whipple 
+
+· 3rd+
+
+.
+
+Connect
+
+Evan Schroder
+
+· 1st
+
+Medical Student | University of Kansas School of Medicine
+
+Message
+
+Lancinet KEITA MD, DU, MPH 
+
+· 2nd
+
+Public Health Professional | MPH Biostatistics & Econometrics | Data Scientist | Senior Program Assistant
+
+Connect
+
+Elina Lynge Wagner
+
+· 1st
+
+Graduate Student in Cancer Research 
+
+Message
+Show all
+Explore Premium profiles
+
+Jeane YooJin Han 
+
+· 3rd
+
+MPH Candidate @ UC Berkeley  - Graduating Dec 2026 / Market Research /  Healthcare Consumer Insights
+
+Message
+
+Darcy Tripod 
+
+· 3rd
+
+Registered Forester
+
+Message
+
+Shreya Dixit 
+
+· 2nd
+
+Emerging Epidemiologist | MPH Epi @ Drexel | Sohokai | Real-World Evidence | Outcomes Research | Market Access
+
+Connect
+
+Ryan Wolynetz MS. 
+
+· 3rd
+
+Quantitative Analytics Associate at JPMorganChase
+
+Message
+People you may know
+From Kimberly's job title
+
+
+Alyssa Morell
+
+· 2nd
+
+Student at University of Wisconsin- Eau Claire
+
+Connect
+
+Addison Drahota 
+
+· 3rd
+
+Fitting Room Associate at Scheels
+
+Connect
+
+Jack Shanno 
+
+· 2nd
+
+Business Administration | Collaborator | Seeking Data Analytics Positions
+
+Connect
+
+Harley Sund
+
+· 3rd
+
+Business Administration Student
+
+Connect
+Daniel Cutler is open to work
+Daniel Cutler 
+
+· 2nd
+
+Accounting Major at UNL | Pre-Law | Detail-Oriented | Seeking Accounting/Law Internships | Kappa Alpha Pi
+
+Connect
+Show all
+You might like
+Pages for you
+
+
+Society for Epidemiologic Research
+
+Non-profit Organizations
+
+6,051 followers
+
+
+Deepanjali & 10 other connections follow this page
+
+
+Follow
+
+MPH in Epidemiology, Harvard T.H. Chan School of Public Health
+
+Higher Education
+
+4,244 followers
+
+
+Niharika follows this page
+
+
+Follow
+Show all
+
+About
+
+Accessibility
+
+Talent Solutions
+
+Community Guidelines
+
+Careers
+
+Marketing Solutions 
+
+Privacy & Terms
+
+Ad Choices
+
+Advertising
+
+Sales Solutions
+
+Mobile
+
+Small Business
+
+Safety Center
+
+LinkedIn Corporation © 2026
+
+Questions?
+
+Visit our Help Center.
+
+Manage your account and privacy
+
+Go to your Settings.
+
+Recommendation transparency
+
+Learn more about Recommended Content.
+
+Select language
+
+
+English (English)
+Trenton Sedlacek
+MessagingYou are on the messaging overlay. Press enter to open the list of conversations.
+
+Compose message
+You are on the messaging overlay. Press enter to open the list of conversations.
+
+KIMBERLY CHRISTENSEN
+WESTSIDE HIGH SCHOOL
+
+TEACHER - ENGLISH
+
+christensen.kimberly@westside66.net
+
+MATTHEW AKINS
+TEACHER - ENGLISH
+
+akins.matthew@westside66.net
+
+TIFFANY ATEMNKENG
+TEACHER - ENGLISH
+
+atemnkeng.tiffany@westside66.net
+
+JESSICA CHAPLE
+TEACHER - ENGLISH
+
+chaple.jessica@westside66.net
+
+KIMBERLY CHRISTENSEN
+TEACHER - ENGLISH
+
+christensen.kimberly@westside66.net
+
+SOPHIE CRENSHAW
+TEACHER - ENGLISH
+
+crenshaw.sophie@westside66.net
+
+MRS DEVEREAUX-CORDELL
+TEACHER - ENGLISH
+
+devereaux.carolyne@westside66.net
+
+JANELLE FENTRESS
+TEACHER - ENGLISH
+
+fentress.janelle@westside66.net
+
+ELIZABETH GRANTHAM
+TEACHER - ENGLISH
+
+grantham.elizabeth@westside66.net
+
+STEPHANIE HEITMANN
+TEACHER - ENGLISH
+
+Heitmann.Stephanie@westside66.net
+
+JAZMINE HINOJOS
+TEACHER - ENGLISH
+
+hinojos.jazmine@westside66.net
+
+MELISSA INMON
+TEACHER - ENGLISH
+
+Inmon.Melissa@westside66.net
+
+ALEXANDRIA LARSON
+TEACHER - ENGLISH
+
+larson.alexandria@westside66.net
+
+CHASE MARTIN
+TEACHER - ENGLISH
+
+martin.chase@westside66.net
+
+DEREK PORTER
+TEACHER - ENGLISH
+
+porter.derek@westside66.net
+
+STEPHANIE PUEPPKA
+TEACHER - ENGLISH
+
+pueppka.stephanie@westside66.net
+
+PAUL SANDERS
+TEACHER - ENGLISH
+
+sanders.paul@westside66.net
+
+JEREMY STOLL
+TEACHER - ENGLISH
+
+Stoll.Jeremy@westside66.net
+
+CHARLOTTE WEYLER
+TEACHER - ENGLISH
+
+Weyler.Charlotte@westside66.net
+
+
+Speech
+
+Kimberly Christensen	
+A competitive activity where students prepare and present poetry, humorous or dramatic cuttings from plays or books, or speeches they have prepared at weekly tournaments. Interpretation (acting) events are Poetry, Dramatic and Humorous interpretation and Duo. Public Address events are Persuasive, Informative, Extemporaneous and Entertainment Speaking. Students can compete at tournaments from November-February/March.
+
+
+Kimberly Christensen J
+Westside Community Schools
+Teacher
+
+Sponsored
+Kimberly Christensen J Overview
+Kimberly Christensen J in 2025 was employed at Westside Community Schools and had a reported pay of $43,079, according to public records. This pay was 36 percent lower than the average and 34 percent lower than the median salary in Westside Community Schools.
+
+In year 2025 Kimberly Christensen's salary was 34 percent lower than average Teacher salary in the state of Nebraska.
+
+Advertisement
+Key Data
+Year
+2025
+Full Name
+Kimberly Christensen J
+Job Title
+Teacher
+State
+Nebraska
+Employer
+Westside Community Schools
+Annual Wage
+$43,079
+Pay Plan
+*Information may include where available: salary, bonuses, benefits, retirement contributions, pensions, and other financial data.
+
+She just started this program
+Skip to Content AZ Index Catalog Home
+University of Nebraska Omaha
+University of Nebraska Omaha
+Academic Catalog
+Search Catalog
+Search catalog
+2026-2027 EditionPrint Options
+About UNO
+Undergraduate
+Graduate
+Courses A-​Z
+Programs A-​Z
+Catalog Introduction
+Graduate College
+Admissions
+Enrollment
+Academic Program Requirements
+Grades and Quality of Work
+Academic Appeals
+Graduation
+Financing your Education
+Tuition and Fees
+Graduate Degree Programs, Certificates &​ Minors
+Accounting
+Artificial Intelligence
+Athletic Training
+Biology
+Biomechanics
+Biomechanics and Kinesiology
+Biomedical Informatics
+Business Administration
+Communication
+Computer Science
+Computer Science Education
+Computing &​ Information Science
+Counseling
+Criminology and Criminal Justice
+Critical and Creative Thinking
+Cybersecurity
+Data Science
+Economics
+Educational Leadership
+Elementary Education
+English
+English, MA
+Creative Nonfiction Writing, Editing and Publishing Certificate
+English Dual Enrollment Certificate
+Literature and Culture Certificate
+Teaching English to Speakers of Other Languages Certificate
+Technical Communication Certificate
+Geography
+Gerontology
+Heatlh and Kinesiology
+Healthcare Logistics and Supply Chain Management
+History
+History and Government
+Human Centered Computing
+Literacy
+Management Information Systems
+Mathematics
+Music
+Political Science
+Psychology
+Public Administration
+Secondary Education
+Social Work
+Sociology
+Special Education
+Speech-​Language Pathology
+Urban Studies
+World Languages
+Writing
+Graduate Certificates
+Graduate Minors
+Home/Graduate/Graduate Degree Programs, Certificates & Minors/English/English, MA
+English, MA
+Overview
+Admissions
+Requirements
+Admissions
+General Application Requirements and Admission Criteria
+
+Application Deadlines 
+Spring 2027: December 1
+Summer 2027: May 1
+Fall 2027: August 1
+Other Requirements
+To be admitted to graduate study in English, a student should have completed at least 18 credit hours in undergraduate English courses above the freshman level with an average grade of “B” (3.0/4.0) or higher.
+English Language Proficiency: Applicants are required to have a command of oral and written English. Those who do not hold a baccalaureate or other advanced degree from the United States, OR a baccalaureate or other advanced degree from a predetermined country on the waiver list, must meet the minimum language proficiency score requirement in order to be considered for admission.
+
+Internet-based TOEFL: 80, IELTS: 6.5, PTE: 53, Duolingo: 110
+If interested in a graduate assistantship ship minimum scores are as follows. Internet-based TOEFL: 100, IELTS: 7.5, PTE: 68, Duolingo: 130 
+Statement of Purpose: The statement (of about 500-1000 words) should convey the applicant’s previous study in the field of English, any relevant work or life experience, the applicant’s philosophy of learning and reason for pursuing a master’s degree in English, and anything else that might help convey the applicant’s personality, spirit, or intellectual character.
+Teaching Assistantship
+The application for a graduate assistantship requires the following additional materials, which should all be sent directly to the attention of the Graduate Program Chair, Department of English, ASH 192D, University of Nebraska at Omaha, 6001 Dodge St., Omaha, NE 68182-0175 or by e-mail to englishTAapplications@unomaha.edu 
+
+Application coversheet (available online)
+Statement of Purpose: 500-1000 words detailing the applicant's ambitions in the graduate program and his or her motivation for pursuing an assistantship. In addition, this statement should convey some sense of the applicant's identity and philosophy of learning.
+Writing Sample or Samples of academic or creative non-fiction prose by the applicant totaling 10-20 pages in length. The sample(s) should reflect the applicant's best writing, demonstrating a cohesive argument and/or sustained thematic focus and excellent control of syntax and style.
+Two Letters of Recommendation from past teachers or anyone else reasonably able to offer an objective assessment of the applicant's writing, critical reasoning skills, and promise as a teacher. These letters should be sent to the above address directly by the recommenders, along with waiver forms.
+University of Nebraska Omaha
+University of Nebraska Omaha, 6001 Dodge Street, Omaha, NE 68182
+© 2026-2027 | Emergency Information Alert | Report a Concern
+
+
+See if any of these people are touring and will be in one of these states:
+MN, WI, IL, MO, KA, CO, NE
+
+Spotify shared songs from her
+If We Were Vampires by Jason Isbell and the 400 Unit
+Turning out pt III by AJR"The Story by Brandi Carlile
+Audrey Hepburn by Maisie Peters
+Mastermind by Taylor Swift
+Garden on the kitchebn floor by Tors
+I Hate Boston by Renee Rapp
+
+Her songs on our mix from Spotify:
+2/14 by Band Camino
+Bowling alley by Audrey Hobert
+Starting Line by Luke Jemmings
+Secrets by State Champs
+White Noise by PVRIS
+Serpents by Neck Deep
+Im Scare Ill Never Sleep again by 5SOS
+After All by Carly Rae Jepsen
+We almost broke up again by Sabrina Carpenter
+Staying Still by NOah Kahan
+Lush Life by Zara Larsson
+Unwritten by Natasha Bedingfield
+Love Story by Taylor Swidt
+Beauty and a Beat by Justin Bieber
+Audrey Hepburn by Maisie Peters
+CYclone by Maude Latour
+Holiday by Vampire Weekend
+Youre so Vain by Carly Simon
+Diamonds by Luke Hemmings
+Chateau by Audrey Hobbart
+Mascara by Band Camino
+Lose Youby Ashton Irwin
+Perfect Score by State Champs
+Tell Me youre srorry by Real friends
+Sick of myself by 5SOS
+TV Off by Kendrick Lamar
+One Dance by Drake
+Dreams by Fleetwood Mac
+Whatya Want from Me by Adam Lambert
+Breakaway by Kelly Clarkson
+Royals by Lorde
+Too Little Too Late by Jojo
+Naked in Manhattan by Chappell Roan
+Never Need me by Rachel Chinouriri
+Cape Cod Kwassa Kwassa by Vampire Weekend
+Aboslutely (Story of a girl) y Nine Days
+Blame Brett by the Beaches
+Rock Star by Hannah Montana
+S.O.S. by Jonas Brothers
+
+Checking tour dates across several midwestern states.
+Checking tour dates across several midwestern states.
+I'll check tour dates for these artists. There are about 35 unique artists, so I'll work through them.
+
+Searched the web, read 3 pages
+Three artists on her lists have upcoming shows in those states.
+
+Jonas Brothers ("S.O.S.") have the most options. Their fall arena tour includes Oct. 22: Rosemont, IL at Allstate Arena; Nov. 1: Milwaukee, WI at Fiserv Forum; Nov. 2: St. Paul, MN at Grand Casino Arena; Nov. 3: Kansas City, MO at T-Mobile Center, plus Dec. 9: Denver, CO at Ball Arena; Dec. 10: Lincoln, NE at Pinnacle Bank Arena. 
+Parade
+Parade
+
+Audrey Hobert ("Bowling Alley," "Chateau") plays two nights at Chicago's Riviera Theatre, Thu Oct 8 and Fri Oct 9, 2026. Many of her dates have sold out, so these may go fast. 
+Consequence
+AXS
+
+State Champs ("Secrets," "Perfect Score") play Nov 08, 2026 in Saint Louis at The Pageant and Nov 21, 2026 in Denver at Summit Music Hall. Songkick shows more upcoming dates than the list I found, so there may be another Midwest stop worth checking. 
+Music Festival Wizard
+Music Festival Wizard
+
+These artists have no upcoming dates in those states: Noah Kahan, Sabrina Carpenter, 5SOS, Maisie Peters, Reneé Rapp, Taylor Swift, Chappell Roan (only LA), Lorde, Zara Larsson, Carly Rae Jepsen, Vampire Weekend, Luke Hemmings, PVRIS, Maude Latour, Neck Deep, and The Band Camino. Brandi Carlile heads to Europe after San Diego on 9/22/26. Jason Isbell's remaining 2026 shows are in the Southeast and a Ryman residency in Nashville. 
+Ticketmaster
+
+I didn't get to AJR, Tors, Real Friends, The Beaches, Rachel Chinouriri, Ashton Irwin, JoJo, Kelly Clarkson, Adam Lambert, Natasha Bedingfield, Nine Days, Kendrick Lamar, Drake, Justin Bieber, or Miley Cyrus. I can check those next if you want.
+
+Her posts point to a few clear interests: AJR (she saw them in 2017 and again in 2022), musical theater (she was in Oklahoma! and Les Mis and mentions a Newsies playbill), renaissance faires, Hippo Campus, and HAIM. Here's what's coming up.
+
+Non-music
+
+The Kansas City Renaissance Festival in Bonner Springs, KS is in its 50th season. It runs Saturdays and Sundays from 10 a.m. to 7 p.m., plus Monday, Oct. 12. Sources disagree on the end date: KCTV lists Sept. 5 through Oct. 18, while KCUR says it runs through October 12. Check the official site before planning around the last weekend. Adult gate admission is $27.95.
+
+The Orpheum in Omaha has a strong 2026–27 Broadway season. Coming up soonest:
+
+Death Becomes Her, Oct 27 to Nov 1
+Beetlejuice, Nov 20 to 21
+Maybe Happy Ending, Dec 8 to 13, which won six Tonys including Best Musical
+The Phantom of the Opera, Feb. 17 to 28, 2027, a new production of the Andrew Lloyd Webber show. This might be the best fit given her Les Mis history.
+
+Beauty and the Beast, The Great Gatsby, and The Sound of Music come later in the spring.
+
+Music
+
+Hippo Campus is the only possible lead. Songkick lists one upcoming concert at Gallagher Way in Chicago, but I couldn't confirm the date. It's worth checking directly.
+
+These artists have nothing in your seven states:
+
+AJR: no concerts announced for 2026.
+Nitty Gritty Dirt Band: their farewell tour ended with a show at Denver's Mission Ballroom on June 18.
+Big Time Rush: no 2026 dates. Their early-2026 college-town leg was cancelled due to illness and injuries.
+Lauryn Hill: her 2026 dates were four East Coast shows in July.
+Vulfpeck: their fall shows are at the Greek Theatres in Berkeley and LA, Oct. 17 and 18.
+Sunset Rollercoaster: you called it. Their North American fall dates are coasts only, ending in Vancouver Oct. 24.
+Wallows and HAIM: I found no current dates.
+ABBA-style: several ABBA tribute shows are touring, but none I found are in these states.
+
+I didn't check Selena Gomez.
+
+Adding the earlier results, the best concert options are still the Jonas Brothers in Lincoln on Dec. 10 and Audrey Hobert in Chicago on Oct. 8 or 9. If she likes live theater as much as her posts suggest, the Phantom run is another strong choice.
+
+
+
+
+
+
